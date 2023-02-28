@@ -1,6 +1,6 @@
 {
   "name": "xadesjs",
-  "version": "2.4.4",
+  "version": "2.4.7",
   "description": "A pure Typescript/Javascript implementation of XAdES based on XMLDSIGjs.",
   "main": "build/index.js",
   "types": "build/types/index.d.ts",
@@ -51,7 +51,7 @@
   "homepage": "https://github.com/PeculiarVentures/xadesjs#readme",
   "dependencies": {
     "xml-core": "^1.1.4",
-    "xmldsigjs": "^2.5.0"
+    "xmldsigjs": "file:xmldsigjs-2.5.4.tgz"
   },
   "devDependencies": {
     "@babel/core": "^7.17.10",
